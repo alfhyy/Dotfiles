@@ -1,0 +1,14 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+    show-icons: true;
+    modi: "drun,run";
+    icon-theme: "Papirus";
+}
+
+* {
+    background-color: #1e1e2e;
+    text-color: #cdd6f4;
+    border: 0;
+    border-radius: 12;   /* 🔥 this makes corners rounded */
+    padding: 8px;
+}
